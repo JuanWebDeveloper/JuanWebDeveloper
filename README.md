@@ -23,7 +23,6 @@
 </p>
 
 <br>
-<br>
 <hr>
 <h2 align="center">💥 Programming languages, frameworks and databases that I handle. 💥</h2>
 <br>
@@ -51,7 +50,6 @@
   <code><img title="GitHub" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg"></code>
 </p>
 
-<br>
 <br>
 <hr>
 <h2 align="center">📈 Stats 📈</h2>
