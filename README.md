@@ -56,21 +56,14 @@
   <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=JuanWebDeveloper&theme=react-dark&bg_color=030314&color=5FAAED&hide_border=true" width="100%"/>
   </div>
-  <br><br><br>
-
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=5FAAED&text_color=ffffff&icon_color=5FAAED&bg_color=030314&langs_count=8&layout=compact&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br>
+  <br>
 
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanWebDeveloper&theme=holi-theme&border=61dafb&hide_border=true" alt="JuanWebDeveloper" />
+      <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanWebDeveloper&theme=holi-theme&border=61dafb&hide_border=true" alt="JuanWebDeveloper" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&icon_color=5FAAED&bg_color=030314&title_color=5FAAED&border_color=61dafb&hide_border=true" />
+      <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&icon_color=5FAAED&bg_color=030314&title_color=5FAAED&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
