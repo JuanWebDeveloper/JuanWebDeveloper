@@ -22,6 +22,8 @@
   📫 You can contact me at: <a href="mailto: juandeveloper19@gmail.com">juandeveloper19@gmail.com</a>
 </p>
 
+<br>
+<br>
 <hr>
 <h2 align="center">💥 Programming languages, frameworks and databases that I handle. 💥</h2>
 <br>
@@ -49,9 +51,10 @@
   <code><img title="GitHub" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg"></code>
 </p>
 
+<br>
+<br>
 <hr>
 <h2 align="center">📈 Stats 📈</h2>
-<br>
 <p align="center">
   <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=JuanWebDeveloper&theme=react-dark&bg_color=030314&color=5FAAED&hide_border=true" width="100%"/>
