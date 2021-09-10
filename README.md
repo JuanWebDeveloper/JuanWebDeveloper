@@ -11,7 +11,8 @@
 	</a>
   </code>
 </h2>
-<p align="center">
+<br>
+<h4 align="center">
   Hello, I am Juan Vargas Web Developer in Colombia.
   <br>
   <br>
@@ -20,9 +21,7 @@
   👨‍💻 I generally work with the MERN programming stack.
   <br>
   📫 You can contact me at: <a href="mailto: juandeveloper19@gmail.com">juandeveloper19@gmail.com</a>
-</p>
-
-<br>
+</h4>
 <hr>
 <h2 align="center">💥 Programming languages, frameworks and databases that I handle. 💥</h2>
 <br>
@@ -49,8 +48,6 @@
   <code><img title="Git" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg"></code>
 </p>
-
-<br>
 <hr>
 <h2 align="center">📈 Stats 📈</h2>
 <p align="center">
