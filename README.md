@@ -11,7 +11,6 @@
 	</a>
   </code>
 </h2>
-<br>
 <p align="center">
   Hello, I am Juan Vargas Web Developer in Colombia.
   <br>
@@ -47,9 +46,34 @@
   <code><img title="C++" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/cpp.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/vscode.png"></code>
   <code><img title="Git" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/git-original.svg"></code>
-    <code><img title="GitHub" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg"></code>
 </p>
 
+<hr>
+<h2 align="center">📈 Stats 📈</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=JuanWebDeveloper&theme=react-dark&bg_color=030314&color=5FAAED&hide_border=true" width="100%"/>
+  </div>
+  <br><br><br>
+
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=5FAAED&text_color=ffffff&icon_color=5FAAED&bg_color=030314&langs_count=8&layout=compact&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
+
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanWebDeveloper&theme=holi-theme&border=61dafb&hide_border=true" alt="JuanWebDeveloper" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&icon_color=5FAAED&bg_color=030314&title_color=5FAAED&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
 <!--
 **JuanWebDeveloper/JuanWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,4 +87,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
