@@ -47,12 +47,12 @@
 <br />
 <div align="center">
   <h1>Estadísticas</h1>
-  <img align="left" width="48%" height="300" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="JuanWebDeveloper" />
-  <img align="right" width="48%" height="300" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es" alt="JuanWebDeveloper" />
+  <img align="left" width="47%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="JuanWebDeveloper" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es" alt="JuanWebDeveloper" />
 </div>
 
 <div align="center">
-  <img width="48%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
 </div>
 <!--
 **JuanWebDeveloper/JuanWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
