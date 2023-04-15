@@ -6,11 +6,12 @@
 </div>
 
 <br />
-<h2 align="center">
+<h1 align="center">
   En mi perfil de GitHub podrás encontrar algunos de mis proyectos más recientes como desarrollador web.
-</h2>
-<h1 align="center">¡Espero Que Te Gusten!</h1>
-  
+  <br />
+  <span>¡Espero Que Te Gusten!</span>
+<h1>
+
 <div align="center">
   <h1>
     Tecnologías Que Manejo
