@@ -9,8 +9,8 @@
 <div align="center">
   <h2>
     En mi perfil de GitHub podrás encontrar algunos de mis proyectos más recientes como desarrollador web.
+    <h1>¡Espero Que Te Gusten!</h1>
   <h2>
-  <h1>¡Espero Que Te Gusten!</h1>
 </div>
   
 <br />
@@ -19,27 +19,27 @@
     Tecnologías Que Manejo
     <div>
       <br />
-      <code><img title="HTML5" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/html5.svg" /></code>
-      <code><img title="CSS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/css.svg" /></code>
-      <code><img title="SASS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/sass.svg" /></code>
-      <code><img title="JavaScript" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/javascript.svg" /></code>
-      <code><img title="React" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/react-original.svg" /></code>
-      <code><img title="Angular" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/angularjs.png" /></code>
-      <code><img title="Redux" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/redux.svg" /></code>
-      <code><img title="NodeJS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/nodejs.png" /></code>
-      <code><img title="MongoDB" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/mongo.png" /></code>
-      <code><img title="npm" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/npm.svg" /></code>
-      <code><img title="JSON" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/json.svg" /></code>
-      <code><img title="PHP" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/php.svg" /></code>
-      <code><img title="Laravel" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/laravel.png" /></code>
-      <code><img title="MySQL" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/mysql.svg" /></code>
-      <code><img title="Python" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/python-original.svg" /></code>
-      <code><img title="Django" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/django.png" /></code>
-      <code><img title="Java" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/java-original.svg" /></code>
-      <code><img title="C++" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/cpp.svg" /></code>
-      <code><img title="Visual Studio Code" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/vscode.png" /></code>
-      <code><img title="Git" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/git-original.svg" /></code>
-      <code><img title="GitHub" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg" /></code>
+      <img title="HTML5" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/html5.svg" />
+      <img title="CSS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/css.svg" />
+      <img title="SASS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/sass.svg" />
+      <img title="JavaScript" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/javascript.svg" />
+      <img title="React" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/react-original.svg" />
+      <img title="Angular" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/angularjs.png" />
+      <img title="Redux" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/redux.svg" />
+      <img title="NodeJS" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/nodejs.png" />
+      <img title="MongoDB" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/mongo.png" />
+      <img title="npm" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/npm.svg" />
+      <img title="JSON" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/json.svg" />
+      <img title="PHP" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/php.svg" />
+      <img title="Laravel" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/laravel.png" />
+      <img title="MySQL" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/mysql.svg" />
+      <img title="Python" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/python-original.svg" />
+      <img title="Django" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/django.png" />
+      <img title="Java" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/java-original.svg" />
+      <img title="C++" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/cpp.svg" />
+      <img title="Visual Studio Code" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/vscode.png" />
+      <img title="Git" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/git-original.svg" />
+      <img title="GitHub" height="30" src="https://github.com/JuanWebDeveloper/JuanWebDeveloper/blob/master/images/github.svg" />
     </div>	
   </h1>
 </div>
@@ -49,6 +49,9 @@
   <h1>Estadísticas</h1>
   <img align="left" width="48%" height="300" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="JuanWebDeveloper" />
   <img align="right" width="48%" height="300" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es" alt="JuanWebDeveloper" />
+</div>
+
+<div align="center">
   <img width="48%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
 </div>
 <!--
