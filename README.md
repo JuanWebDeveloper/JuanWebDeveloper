@@ -7,10 +7,11 @@
 
 <br />
 <div align="center">
-  <h2>
+  <h1>
     En mi perfil de GitHub podrás encontrar algunos de mis proyectos más recientes como desarrollador web.
-    <h1>¡Espero Que Te Gusten!</h1>
-  <h2>
+    <br />
+    <span>¡Espero Que Te Gusten!</span>
+  <h1>
 </div>
   
 <br />
@@ -52,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
 </div>
 <!--
 **JuanWebDeveloper/JuanWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
