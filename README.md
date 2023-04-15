@@ -6,15 +6,11 @@
 </div>
 
 <br />
-<div align="center">
-  <h1>
-    En mi perfil de GitHub podrás encontrar algunos de mis proyectos más recientes como desarrollador web.
-    <br />
-    <span>¡Espero Que Te Gusten!</span>
-  <h1>
-</div>
+<h2 align="center">
+  En mi perfil de GitHub podrás encontrar algunos de mis proyectos más recientes como desarrollador web.
+</h2>
+<h1 align="center">¡Espero Que Te Gusten!</h1>
   
-<br />
 <div align="center">
   <h1>
     Tecnologías Que Manejo
@@ -45,16 +41,21 @@
   </h1>
 </div>
 
-<br />
 <div align="center">
   <h1>Estadísticas</h1>
+  
+  <br />
+  <div align="center">
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
+  </div>
+
+  <br />
   <img align="left" width="47%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="JuanWebDeveloper" />
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es" alt="JuanWebDeveloper" />
 </div>
 
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8" alt="JuanWebDeveloper" />
-</div>
+
+
 <!--
 **JuanWebDeveloper/JuanWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
