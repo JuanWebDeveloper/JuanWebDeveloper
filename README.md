@@ -53,8 +53,8 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es&count_private=true&include_all_commits=true" alt="Estadísticas de JuanWebDeveloper" />
       </td>
       <td width="50%" align="center">
-        <!-- Puedes ajustar &hide=python o excluir repos específicos para resaltar TypeScript/JS/SCSS -->
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&exclude_repo=Python,Data-Analysis" alt="Lenguajes más usados" />
+        <!-- Ocultamos Python y filtramos por actividad de commits -->
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&hide=python&rank_by=commits" alt="Lenguajes más usados" />
       </td>
     </tr>
   </table>
