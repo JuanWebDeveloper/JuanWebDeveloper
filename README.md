@@ -50,16 +50,17 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es&count_private=true&include_all_commits=true" alt="Estadísticas de JuanWebDeveloper" />
+        <!-- Tu servidor Vercel privado con autenticación por Token -->
+        <img width="100%" src="https://github-readme-stats-woad-five-15.vercel.app/api?username=JuanWebDeveloper&show_icons=true&theme=react&border_radius=10&locale=es&count_private=true&include_all_commits=true" alt="Estadísticas de JuanWebDeveloper" />
       </td>
       <td width="50%" align="center">
-        <!-- Ocultamos Python y filtramos por actividad de commits -->
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&hide=python&rank_by=commits" alt="Lenguajes más usados" />
+        <!-- Tarjeta de Lenguajes usando tu Vercel privado sin Python -->
+        <img width="100%" src="https://github-readme-stats-woad-five-15.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&hide=python&rank_by=commits" alt="Lenguajes más usados" />
       </td>
     </tr>
   </table>
 
   <br />
 
- <img width="100%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Racha de Contribuciones" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de Contribuciones" />
 </div>
