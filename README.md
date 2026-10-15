@@ -62,5 +62,5 @@
 
   <br />
 
-  <img width="100%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de Contribuciones" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=JuanWebDeveloper&theme=react&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Racha de Contribuciones" />
 </div>
