@@ -60,7 +60,7 @@
       </td>
       <td width="50%" align="center">
         <!-- Tarjeta de Lenguajes -->
-        <img width="100%" src="https://github-readme-stats-woad-five-15.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&hide=python&rank_by=commits" alt="Lenguajes más usados" />
+        <img width="100%" src="https://github-readme-stats-woad-five-15.vercel.app/api/top-langs/?username=JuanWebDeveloper&layout=compact&theme=react&border_radius=10&locale=es&langs_count=8&count_private=true&rank_by=commits" alt="Lenguajes más usados" />
       </td>
     </tr>
   </table>
